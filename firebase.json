@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "node_modules/",
+      "dist/",
+      ".git/**",
+      "*.local",
+      "server.js",
+      "repairs.json"
+    ]
+  }
+}
